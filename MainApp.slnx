@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MainApp/MainApp.csproj" Id="c55a84c3-ff70-4824-a7e9-4a7874635148" />
+  <Project Path="MyCustomLib/MyCustomLib.csproj" Id="e866c36a-6a1b-466c-a518-9f27c9df86f0" />
+</Solution>

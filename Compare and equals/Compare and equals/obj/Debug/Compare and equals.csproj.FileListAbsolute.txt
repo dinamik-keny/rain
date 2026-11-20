@@ -1,0 +1,7 @@
+C:\Users\turan\source\repos\Compare and equals\Compare and equals\bin\Debug\Compare and equals.exe.config
+C:\Users\turan\source\repos\Compare and equals\Compare and equals\bin\Debug\Compare and equals.exe
+C:\Users\turan\source\repos\Compare and equals\Compare and equals\bin\Debug\Compare and equals.pdb
+C:\Users\turan\source\repos\Compare and equals\Compare and equals\obj\Debug\Compare and equals.csproj.AssemblyReference.cache
+C:\Users\turan\source\repos\Compare and equals\Compare and equals\obj\Debug\Compare and equals.csproj.CoreCompileInputs.cache
+C:\Users\turan\source\repos\Compare and equals\Compare and equals\obj\Debug\Compare and equals.exe
+C:\Users\turan\source\repos\Compare and equals\Compare and equals\obj\Debug\Compare and equals.pdb

@@ -1,0 +1,7 @@
+C:\Users\turan\source\repos\calc\calc\obj\Debug\calc.csproj.AssemblyReference.cache
+C:\Users\turan\source\repos\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+C:\Users\turan\source\repos\calc\calc\bin\Debug\calc.exe.config
+C:\Users\turan\source\repos\calc\calc\bin\Debug\calc.exe
+C:\Users\turan\source\repos\calc\calc\bin\Debug\calc.pdb
+C:\Users\turan\source\repos\calc\calc\obj\Debug\calc.exe
+C:\Users\turan\source\repos\calc\calc\obj\Debug\calc.pdb

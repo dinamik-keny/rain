@@ -1,0 +1,7 @@
+C:\Users\turan\source\repos\Тема6\Тема6\bin\Debug\Тема6.exe.config
+C:\Users\turan\source\repos\Тема6\Тема6\bin\Debug\Тема6.exe
+C:\Users\turan\source\repos\Тема6\Тема6\bin\Debug\Тема6.pdb
+C:\Users\turan\source\repos\Тема6\Тема6\obj\Debug\Тема6.csproj.AssemblyReference.cache
+C:\Users\turan\source\repos\Тема6\Тема6\obj\Debug\Тема6.csproj.CoreCompileInputs.cache
+C:\Users\turan\source\repos\Тема6\Тема6\obj\Debug\Тема6.exe
+C:\Users\turan\source\repos\Тема6\Тема6\obj\Debug\Тема6.pdb
